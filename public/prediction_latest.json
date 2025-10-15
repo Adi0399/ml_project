@@ -2,10 +2,10 @@
   "row": 2,
   "pred_id": 2,
   "pred_label": "MEDITATION",
-  "timestamp": "2025-10-15T04:02:43.139906+00:00",
+  "timestamp": "2025-10-15T04:23:46.785727+00:00",
   "probs": {
-    "NEUTRAL": 0.12333333333333334,
-    "STRESS": 0.02,
-    "MEDITATION": 0.8566666666666667
+    "NEUTRAL": 0.23,
+    "STRESS": 0.0,
+    "MEDITATION": 0.77
   }
 }
